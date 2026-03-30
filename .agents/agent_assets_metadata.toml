@@ -1,0 +1,20 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "JYWeH3GiCQnmK_Jsbyjxp"
+uri = "file://artifacts/portfolio/public/hero-bg.png"
+type = "image"
+title = "hero background data visualization"
+
+[[generated]]
+id = "yfs9a77--Nw02jIDQYdy3"
+uri = "file://artifacts/portfolio/public/project-1.png"
+type = "image"
+title = "project dashboard preview"
+
+[[generated]]
+id = "2o5-rhNscV1-ztv4u1hZF"
+uri = "file://artifacts/portfolio/public/project-2.png"
+type = "image"
+title = "machine learning visualization"
