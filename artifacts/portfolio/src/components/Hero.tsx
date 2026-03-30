@@ -38,7 +38,7 @@ export default function Hero() {
             transition={{ duration: 0.5, delay: 0.1 }}
             className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tighter leading-tight mb-6"
           >
-            Hi, I'm <span className="text-gradient">Alex Chen.</span>
+            Hi, I'm <span className="text-gradient">Prashant Chauhan.</span>
             <br />
             I build intelligence 
             <br />

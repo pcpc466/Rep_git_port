@@ -44,7 +44,7 @@ export default function Navbar() {
         >
           <Terminal className="w-6 h-6 text-primary group-hover:text-accent transition-colors" />
           <span className="font-mono font-bold text-lg tracking-tight">
-            ALEX_CHEN<span className="text-primary animate-pulse">_</span>
+            PRASHANT_CHAUHAN<span className="text-primary animate-pulse">_</span>
           </span>
         </a>
 

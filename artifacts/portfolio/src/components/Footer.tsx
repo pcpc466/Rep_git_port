@@ -45,7 +45,7 @@ export default function Footer() {
               <p className="flex items-center gap-4">
                 <span className="text-primary">"email"</span>: 
                 <a href="mailto:hello@example.com" className="text-foreground hover:text-primary transition-colors flex items-center gap-2">
-                  "alex.chen@example.com"
+                  "prashant.chauhan@example.com"
                 </a>,
               </p>
               <div className="flex gap-4 pt-4 border-t border-border/50">
@@ -66,7 +66,7 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row items-center justify-between pt-8 border-t border-border/50 font-mono text-xs text-muted-foreground">
           <div className="flex items-center gap-2 mb-4 md:mb-0">
             <Terminal className="w-4 h-4" />
-            <span>ALEX_CHEN © {new Date().getFullYear()}</span>
+            <span>PRASHANT_CHAUHAN © {new Date().getFullYear()}</span>
           </div>
           <p>Designed with precision. Built for scale.</p>
         </div>
